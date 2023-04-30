@@ -1,0 +1,24 @@
+{
+  "recieps": [
+    {
+      "id": 1,
+      "name": "Apple Frangipan Tart",
+      "image": "/img/apple.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Apple & Blackberry Crumble",
+      "image": "/img/black.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Apam Balik",
+      "image": "/img/belick.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Ayam Percik",
+      "image": "/img/percik.jpeg"
+    }
+  ]
+}
